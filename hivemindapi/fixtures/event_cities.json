@@ -1,0 +1,10 @@
+[
+    {
+        "model": "hivemindapi.event_city",
+        "pk": 1,
+        "fields": {
+            "event_id": 1,
+            "city_id": 1
+        }
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "model": "hivemindapi.event",
+        "pk": 1,
+        "fields": {
+            "name": "LA VIE EN ROSÉ: ART & WINE FESTIVAL",
+            "description": "A beautiful celebration of Rose! Celebration on main street. Live Music and vendors galore!",
+            "date": "2022-07-29",
+            "time": "3:00",
+            "imgAddress": "https://www.acofhc.org/uploads/7/8/0/4/78041708/published/untitled-design-1.png?1618332462",
+            "creator": 1,
+            "extraLink": "https://www.acofhc.org/rose.html"
+        }
+    }
+]

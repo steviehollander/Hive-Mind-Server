@@ -1,0 +1,1 @@
+DELETE FROM hivemindapi_event WHERE name='Judy Loons';

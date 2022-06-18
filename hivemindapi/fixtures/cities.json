@@ -1,0 +1,44 @@
+[
+    {
+        "model": "hivemindapi.city",
+        "pk": 1,
+        "fields": {
+            "name": "Asheville, NC"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 2,
+        "fields": {
+            "name": "Nashville, TN"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 3,
+        "fields": {
+            "name": "Los Angeles, CA"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 4,
+        "fields": {
+            "name": "Austin, TX"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 5,
+        "fields": {
+            "name": "New Orleans, LA"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 6,
+        "fields": {
+            "name": "Salem, MA"
+        }
+    }
+]
