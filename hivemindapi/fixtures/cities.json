@@ -40,5 +40,89 @@
         "fields": {
             "name": "Salem, MA"
         }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 7,
+        "fields": {
+            "name": "New York, NY"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 8,
+        "fields": {
+            "name": "Birmingham, AL"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 9,
+        "fields": {
+            "name": "Memphis, TN"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 10,
+        "fields": {
+            "name": "Portland, OR"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 11,
+        "fields": {
+            "name": "St. Louis, MS"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 12,
+        "fields": {
+            "name": "Orlando, FL"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 13,
+        "fields": {
+            "name": "Hartford, CT"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 14,
+        "fields": {
+            "name": "Atlanta, GA"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 15,
+        "fields": {
+            "name": "Honolulu, HI"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 16,
+        "fields": {
+            "name": "Boston, MA"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 17,
+        "fields": {
+            "name": "Santa Fe, NM"
+        }
+    },
+    {
+        "model": "hivemindapi.city",
+        "pk": 18,
+        "fields": {
+            "name": "Columbus, OH"
+        }
     }
 ]
